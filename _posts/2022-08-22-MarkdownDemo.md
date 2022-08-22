@@ -1,6 +1,7 @@
 ---
 title: Markdown Post
 toc: true
+branch: master
 layout: post
 decription: Markdown Demo - Tirth Thakkar
 categories: [markdown]
