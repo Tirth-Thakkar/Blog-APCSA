@@ -1,4 +1,5 @@
 ---
+title: Markdown Post
 toc: true
 layout: post
 decription: Markdown Demo - Tirth Thakkar
