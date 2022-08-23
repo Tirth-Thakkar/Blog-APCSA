@@ -1,6 +1,6 @@
 ---
 title: Markdown Post
-toc: false
+toc: true
 branch: master
 layout: post
 decription: Markdown Demo - Tirth Thakkar
