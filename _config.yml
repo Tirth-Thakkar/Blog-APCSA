@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Tirth Thakkar - Blog 
+title: Hello 
 description: The blog assignment for APCSP.
 github_username: Tirth-Thakkar
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "APCSP-Blog"
+github_repo: "Hello"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
