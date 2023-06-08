@@ -8,7 +8,7 @@
       "page1": {
           "title": "About Me",
           "content": "Tirth Thakkar APCSP student at DNHS Tirth-Thakkar [^1]. . [^1] Github .",
-          "url": "https://tirth-thakkar.github.io/Hello/about/",
+          "url": "https://tirth-thakkar.github.io/APCSA/about/",
           "relUrl": "/about/",
           "date": ""
       }
@@ -43,7 +43,7 @@
       ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://tirth-thakkar.github.io/Hello/robots.txt",
+          "url": "https://tirth-thakkar.github.io/APCSA/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
