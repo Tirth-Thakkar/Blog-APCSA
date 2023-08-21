@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: APCSA Blog 
-description: The blog assignment for APCSP.
+description: The blog assignment for APCSA.
 github_username: Tirth-Thakkar
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Blog-APCSA"
