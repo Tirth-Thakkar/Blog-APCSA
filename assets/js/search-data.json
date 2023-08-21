@@ -1,13 +1,24 @@
 {
   
+    
+        "post0": {
+            "title": "First Blog Setup",
+            "content": "The First Notebooks . System.out.println(&quot;Hello World&quot;); . Hello World . console.log(&quot;Hello World&quot;); . Hello World . print(&quot;🐍&quot;) . 🐍 .",
+            "url": "https://tirth-thakkar.github.io/Blog-APCSA/week0/2023/08/18/FirstNotebook.html",
+            "relUrl": "/week0/2023/08/18/FirstNotebook.html",
+            "date": " • Aug 18, 2023"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
-          "content": "Tirth Thakkar APCSP student at DNHS Tirth-Thakkar [^1]. . [^1] Github .",
+          "content": "Tirth Thakkar APCSA student at DNHS Tirth-Thakkar [^1]. . [^1] Github .",
           "url": "https://tirth-thakkar.github.io/Blog-APCSA/about/",
           "relUrl": "/about/",
           "date": ""
