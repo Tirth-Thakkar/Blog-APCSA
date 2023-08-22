@@ -2,8 +2,19 @@
   
     
         "post0": {
+            "title": "Tools and Why I Love Them (Sometimes)",
+            "content": "Tools and Why I Love Them (Sometimes) .",
+            "url": "https://tirth-thakkar.github.io/Blog-APCSA/week0/2023/08/18/Tools.html",
+            "relUrl": "/week0/2023/08/18/Tools.html",
+            "date": " • Aug 18, 2023"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "First Blog Setup",
-            "content": "The First Notebooks . System.out.println(&quot;Hello World&quot;); . Hello World . console.log(&quot;Hello World&quot;); . Hello World . print(&quot;🐍&quot;) . 🐍 .",
+            "content": "Hello World . Hello World in Java, Javascript and Python | . System.out.println(&quot;Hello World ☕&quot;); . Hello World ☕ . console.log(&quot;Hello World 🟨&quot;); . Hello World 🟨 . print(&quot;Hello World 🐍&quot;) . Hello World 🐍 . Installation Hacks . Version Control . Where are the files from GitHub placed on your local machine. How do you navigate to those files?: . The files from GitHub are placed in the directory that you specify when you clone the repository. For instance the /vscode directory. The directory of the clones repository can be navigated by using the cd command with the name of the cloned directory. | . | Where are the files placed in the GitHub Cloud, how do you navigate to those files?: . The directory containing the files in the repository on GitHub is created on their servers (possibly on some Azure server somewhere). These files are then accessible and managed through the GitHub website or through the GitHub Desktop application or similar software. | . | How would you update your Template or Fork of student repository if teacher wanted you to pick up an update?: . To update the template or fork of the student repository, you would need to add the teacher repository as a remote repository. Then you would need to fetch the changes from the teacher repository and merge them into your local repository. Then push the changes to your repository updating your repository with the changes from the teacher repository. (There may be merge conflicts that need to be resolved.) | . | . | .",
             "url": "https://tirth-thakkar.github.io/Blog-APCSA/week0/2023/08/18/FirstNotebook.html",
             "relUrl": "/week0/2023/08/18/FirstNotebook.html",
             "date": " • Aug 18, 2023"
