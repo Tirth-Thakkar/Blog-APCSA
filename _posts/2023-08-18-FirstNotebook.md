@@ -6,8 +6,9 @@ toc: true
 badges: false
 comments: true
 author: Tirth Thakkar 
+image: images/HelloWorld.jpg
 categories: [week0]
-type: setup
+type: setup 
 week: 0
 nb_path: _notebooks/2023-08-18-FirstNotebook.ipynb
 layout: notebook
@@ -24,7 +25,10 @@ layout: notebook
         
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="The-First-Notebooks">The First Notebooks<a class="anchor-link" href="#The-First-Notebooks"> </a></h2>
+<h2 id="Hello-World">Hello World<a class="anchor-link" href="#Hello-World"> </a></h2><ul>
+<li>Hello World in Java, Javascript and Python</li>
+</ul>
+
 </div>
 </div>
 </div>
@@ -35,7 +39,7 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">System</span><span class="o">.</span><span class="n">out</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;Hello World&quot;</span><span class="p">);</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">System</span><span class="o">.</span><span class="n">out</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;Hello World ☕&quot;</span><span class="p">);</span>
 </pre></div>
 
     </div>
@@ -48,7 +52,7 @@ layout: notebook
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Hello World
+<pre>Hello World ☕
 </pre>
 </div>
 </div>
@@ -66,7 +70,7 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">console</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="s2">&quot;Hello World&quot;</span><span class="p">);</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">console</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="s2">&quot;Hello World 🟨&quot;</span><span class="p">);</span>
 </pre></div>
 
     </div>
@@ -79,7 +83,7 @@ layout: notebook
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Hello World
+<pre>Hello World 🟨
 </pre>
 </div>
 </div>
@@ -97,7 +101,7 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;🐍&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Hello World 🐍&quot;</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -110,7 +114,7 @@ layout: notebook
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>🐍
+<pre>Hello World 🐍
 </pre>
 </div>
 </div>
@@ -121,6 +125,33 @@ layout: notebook
 </div>
     {% endraw %}
 
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Installation-Hacks">Installation Hacks<a class="anchor-link" href="#Installation-Hacks"> </a></h2><ul>
+<li><p>Version Control</p>
+<ul>
+<li><p><em>Where are the files from GitHub placed on your local machine. How do you navigate to those files?</em>:</p>
+<ul>
+<li>The files from GitHub are placed in the directory that you specify when you clone the repository. For instance the /vscode directory. The directory of the clones repository can be navigated  by using the <code>cd</code> command with the name of the cloned directory.</li>
+</ul>
+</li>
+<li><p><em>Where are the files placed in the GitHub Cloud, how do you navigate to those files?</em>:</p>
+<ul>
+<li>The directory containing the files in the repository on GitHub is created on their servers (possibly on some Azure server somewhere). These files are then accessible and managed through the GitHub website or through the GitHub Desktop application or similar software.</li>
+</ul>
+</li>
+<li><p><em>How would you update your Template or Fork of student repository if teacher wanted you to pick up an update?</em>:</p>
+<ul>
+<li>To update the template or fork of the student repository, you would need to add the teacher repository as a remote repository. Then you would need to fetch the changes from the teacher repository and merge them into your local repository. Then push the changes to your repository updating your repository with the changes from the teacher repository. (There may be merge conflicts that need to be resolved.)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+</div>
 </div>
  
 
